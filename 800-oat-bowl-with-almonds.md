@@ -3,9 +3,9 @@ title: 800 Calorie Oat Bowl with Almonds
 intended_meal: brunch
 servings: 1
 calories: 800
-protein_g: 51
+protein_g: 47
 fiber_g: 20
-calorie_note: Approximate; adds almonds by reducing oats and yogurt so the bowl stays near 800 calories.
+calorie_note: Approximate; adds almonds by reducing yogurt and berries so the bowl stays near 800 calories.
 tags:
   - high-protein
   - high-fiber
@@ -22,15 +22,15 @@ A high-protein, high-fiber brunch built around overnight oats, Greek yogurt, ber
 
 ### Overnight oats
 
-- 40 g rolled oats
+- 60 g rolled oats
 - 18 g chia seeds
-- 160 g water
+- 210 g water
 - Pinch of iodized salt
 
 ### Morning additions
 
-- 250 g plain 2% Greek yogurt
-- 200 g frozen berries
+- 175 g plain 2% Greek yogurt
+- 150 g frozen berries
 - 20 g almonds
 
 ### Side
@@ -47,9 +47,9 @@ A high-protein, high-fiber brunch built around overnight oats, Greek yogurt, ber
 
 ## Notes
 
-- This version adds 20 g almonds by reducing rolled oats from 60 g to 40 g and Greek yogurt from 300 g to 250 g.
+- This version adds 20 g almonds by reducing Greek yogurt from 300 g to 175 g and frozen berries from 200 g to 150 g.
 - If you forget to make the oats the night before, make the jar in the morning and let it sit on the counter for 20 minutes instead.
-- Use 150 g water for a denser, spoonable texture.
-- Use 170 g water for a looser texture closer to a softer overnight-oats bowl.
+- Use 200 g water for a denser, spoonable texture.
+- Use 220 g water for a looser texture closer to a softer overnight-oats bowl.
 - Add the yogurt fresh in the morning rather than soaking it overnight.
 - Do not add toast or extra fruit by default; those should be swaps, not additions, if keeping this near 800 calories.
