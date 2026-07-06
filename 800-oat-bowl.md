@@ -44,6 +44,7 @@ A high-protein, high-fiber brunch built around overnight oats, Greek yogurt, ber
 
 ## Notes
 
+- If you forget to make the oats the night before, make the jar in the morning and let it sit on the counter for 20 minutes instead.
 - Use 200 g water for a denser, spoonable texture.
 - Use 220 g water for a looser texture closer to a softer overnight-oats bowl.
 - Add the yogurt fresh in the morning rather than soaking it overnight.
