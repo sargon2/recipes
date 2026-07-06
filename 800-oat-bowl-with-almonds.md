@@ -24,7 +24,7 @@ A high-protein, high-fiber brunch built around overnight oats, Greek yogurt, ber
 
 - 40 g rolled oats
 - 18 g chia seeds
-- 210 g water
+- 160 g water
 - Pinch of iodized salt
 
 ### Morning additions
@@ -49,7 +49,7 @@ A high-protein, high-fiber brunch built around overnight oats, Greek yogurt, ber
 
 - This version adds 20 g almonds by reducing rolled oats from 60 g to 40 g and Greek yogurt from 300 g to 250 g.
 - If you forget to make the oats the night before, make the jar in the morning and let it sit on the counter for 20 minutes instead.
-- Use 200 g water for a denser, spoonable texture.
-- Use 220 g water for a looser texture closer to a softer overnight-oats bowl.
+- Use 150 g water for a denser, spoonable texture.
+- Use 170 g water for a looser texture closer to a softer overnight-oats bowl.
 - Add the yogurt fresh in the morning rather than soaking it overnight.
 - Do not add toast or extra fruit by default; those should be swaps, not additions, if keeping this near 800 calories.
