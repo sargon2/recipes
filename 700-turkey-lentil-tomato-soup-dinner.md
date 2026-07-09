@@ -6,6 +6,7 @@ calories: 700
 soup_calories_per_serving: 500
 protein_g: 45
 fiber_g: 22
+prep_time_minutes: 90
 calorie_note: Approximate; varies by turkey, bread, fruit size, and final soup yield.
 equipment:
   - 8 qt stock pot
@@ -23,8 +24,6 @@ tags:
 # 700 Calorie Turkey Lentil Tomato Soup Dinner
 
 A high-protein, high-fiber dinner built around a thick turkey lentil tomato soup, with simple sides to bring the full meal close to 700 calories.
-
-Prep time: about 90 minutes, including dicing the onion and mincing the garlic.
 
 ## Dinner serving
 
@@ -85,4 +84,3 @@ Makes 4 large soup servings.
 - The soup itself is intentionally around 500 calories per serving, not 700. The toast, carrots, and fruit make it a complete 700-calorie dinner.
 - Use 250 g dry lentils for the standard version. More lentils would make the containers very full and push the soup toward a stew.
 - If using an apple instead of an orange, the full dinner may be a little higher in calories.
-- If the soup portion comes out smaller than expected, add a second piece of fruit or a second slice of toast rather than increasing oil or mayo.
