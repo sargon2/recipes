@@ -24,6 +24,8 @@ tags:
 
 A high-protein, high-fiber dinner built around a thick turkey lentil tomato soup, with simple sides to bring the full meal close to 700 calories.
 
+Prep time: about 90 minutes, including dicing the onion and mincing the garlic.
+
 ## Dinner serving
 
 Each dinner is:
@@ -39,6 +41,7 @@ Approximate dinner total: 680-730 calories.
 
 Makes 4 large soup servings.
 
+- 1 tsp olive oil
 - 1 lb 93% lean ground turkey
 - 250 g dry lentils, rinsed and picked over
 - 1 large yellow onion, diced
@@ -57,16 +60,17 @@ Makes 4 large soup servings.
 ## Instructions
 
 1. Heat the 8 qt stock pot over medium heat.
-2. Add the ground turkey and cook, breaking it up, until no pink remains.
-3. Add the diced onion and cook until softened.
-4. Add the garlic and cook for about 30 seconds.
-5. Add the lentils, crushed tomatoes, diced tomatoes, water, Italian seasoning, smoked paprika, black pepper, and red pepper flakes if using.
-6. Bring to a boil, then reduce to a simmer.
-7. Simmer uncovered or partially covered for about 30-40 minutes, until the lentils are tender. Stir occasionally so the lentils do not stick to the bottom.
-8. Add more water if the soup gets thicker than desired.
-9. Stir in the spinach and cook until wilted.
-10. Taste and adjust with iodized salt. Add a splash of white vinegar if the soup tastes flat.
-11. Divide into 4 large servings.
+2. Add the olive oil.
+3. Add the diced onion and cook until translucent.
+4. Add the ground turkey and cook, breaking it up, until no pink remains.
+5. Add the garlic and cook for about 30 seconds.
+6. Add the lentils, crushed tomatoes, diced tomatoes, water, Italian seasoning, smoked paprika, black pepper, and red pepper flakes if using.
+7. Bring to a boil, then reduce to a simmer.
+8. Simmer uncovered or partially covered for about 30-40 minutes, until the lentils are tender. Stir occasionally so the lentils do not stick to the bottom.
+9. Add more water if the soup gets thicker than desired.
+10. Stir in the spinach and cook until wilted.
+11. Taste and adjust with iodized salt. Add a splash of white vinegar if the soup tastes flat.
+12. Divide into 4 large servings.
 
 ## Storage
 
