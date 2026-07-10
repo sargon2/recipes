@@ -3,16 +3,11 @@ title: 300 Calorie Fresh Fruit and Greek Yogurt Plate
 intended_meal: afternoon snack or evening snack
 servings: 1
 calories: 300
-protein_g: 14
-fiber_g: 6
-calorie_note: Approximate; fruit size, variety, and Greek yogurt brand will cause some variation.
+calorie_note: Approximate; the amount of fruit needed depends on the fruit selected and the Greek yogurt brand.
 tags:
   - high-fiber
   - snack
   - fruit
-  - golden-kiwi
-  - orange
-  - grapes
   - greek-yogurt
   - weight-loss
 ---
@@ -23,21 +18,21 @@ A large, fresh-fruit snack for days when the craving is specifically for whole f
 
 ## Ingredients
 
-- 150 g golden kiwi, peeled weight
-- 140 g orange, peeled weight
-- 100 g seedless grapes
+- Fresh fruit of choice, edible weight, in an amount that brings the finished snack to approximately 300 calories
 - 100 g plain 2% Greek yogurt
 
 ## Instructions
 
-1. Peel the golden kiwi and orange, then weigh the edible portions.
-2. Cut the kiwi and orange into bite-sized pieces.
-3. Wash and weigh the grapes.
-4. Serve the fruit with the Greek yogurt on the side for dipping, or spoon the yogurt over the fruit.
+1. Check the Greek yogurt label and subtract the calories in 100 g from 300 to determine the calorie allowance for the fruit.
+2. Prepare the fruit as needed, removing any peel, pits, stems, or other inedible parts.
+3. Weigh the edible fruit portion and use its nutrition information to portion enough fruit to match the remaining calorie allowance. When combining fruits, count the calories from all of them together.
+4. Cut the fruit into bite-sized pieces if needed.
+5. Serve the fruit with the Greek yogurt on the side for dipping, or spoon the yogurt over the fruit.
 
 ## Notes
 
-- This is intentionally fruit-heavy: roughly three quarters of the calories come from fruit.
-- The listed weights are edible weights after peeling; using whole-fruit weights would make the calorie estimate inaccurate.
+- This is intentionally fruit-heavy: roughly three quarters of the calories should come from fruit.
+- Fruit varies substantially in calories by weight, so a single fixed fruit weight would not reliably produce a 300-calorie snack.
+- All listed fruit weights should be edible weights after preparation.
 - This works best with ripe fruit and should not need honey or another sweetener.
-- For the most consistent total, weigh the fruit rather than relying on counts such as two kiwis or one orange.
+- For the most consistent total, weigh the fruit rather than relying on counts or whole-fruit estimates.
