@@ -24,10 +24,21 @@ A large, fresh-fruit snack for days when the craving is specifically for whole f
 ## Instructions
 
 1. Check the Greek yogurt label and subtract the calories in 100 g from 300 to determine the calorie allowance for the fruit.
-2. Prepare the fruit as needed, removing any peel, pits, stems, or other inedible parts.
+2. Prepare the fruit as needed, removing any peel, pits, stems, cores, or other inedible parts.
 3. Weigh the edible fruit portion and use its nutrition information to portion enough fruit to match the remaining calorie allowance. When combining fruits, count the calories from all of them together.
 4. Cut the fruit into bite-sized pieces if needed.
 5. Serve the fruit with the Greek yogurt on the side for dipping, or spoon the yogurt over the fruit.
+
+## Example Single-Fruit Portions
+
+Assuming the 100 g Greek yogurt provides about 75 calories, leaving about 225 calories for fruit:
+
+- 430 g apple, cored edible weight
+- 480 g orange, peeled edible weight
+- 370 g golden kiwi, peeled edible weight
+- 325 g seedless grapes, stemmed edible weight
+
+These are approximate starting points based on typical calorie values. Check the fruit's nutrition information when available, especially if the yogurt differs substantially from 75 calories per 100 g.
 
 ## Notes
 
