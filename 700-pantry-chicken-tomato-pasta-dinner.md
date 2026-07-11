@@ -28,21 +28,16 @@ A single-serving pantry dinner built around whole wheat pasta, canned chicken, R
 - 125 g Rao's pasta sauce
 - 130 g black beans, drained and rinsed
 - 100 g spinach or other dark leafy greens
-- 2 cloves garlic, minced, or garlic powder to taste
-- Italian seasoning, to taste
-- Black pepper, to taste
 - Iodized salt, to taste
-- Optional: red pepper flakes
-- Optional: white vinegar, to finish
 
 ## Instructions
 
 1. Cook the pasta until tender.
-2. While the pasta cooks, warm the Rao's pasta sauce, garlic, Italian seasoning, black pepper, and red pepper flakes in a pan or microwave-safe bowl.
+2. While the pasta cooks, warm the Rao's pasta sauce in a pan or microwave-safe bowl.
 3. Stir in the drained chicken, black beans, and greens.
 4. Heat until the greens are wilted and everything is hot.
 5. Drain the pasta and combine with the sauce mixture.
-6. Taste and adjust with iodized salt. Add a splash of white vinegar if the sauce tastes flat.
+6. Taste and adjust with iodized salt.
 
 ## Notes
 
