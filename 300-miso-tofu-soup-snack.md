@@ -24,7 +24,7 @@ A warm, savory snack for hunger relief or food-noise pressure release.
 
 - 18 g dashi-flavored miso powder or paste
 - 100 g medium tofu, cubed
-- Small amount dry wakame
+- 2 g dried wakame
 - Scallions, to taste
 - 400 g water, or 350-450 g to preferred strength
 - 1 boiled egg
