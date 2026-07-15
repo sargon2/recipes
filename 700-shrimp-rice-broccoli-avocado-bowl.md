@@ -38,9 +38,9 @@ A single-serving freezer-and-pantry dinner built around shrimp, brown rice, broc
 ## Instructions
 
 1. Cook the brown rice, or reheat cooked brown rice if already prepared.
-2. Thaw the shrimp if needed.
+2. If thawing is needed, thaw the shrimp in a bowl of cold water for 20–30 minutes.
 3. Steam or microwave the broccoli until hot.
-4. Cook the shrimp in a pan or by steaming until just cooked through.
+4. Steam the shrimp for about 6–7 minutes, until just cooked through.
 5. Add the rice, broccoli, greens, and shrimp to a bowl.
 6. Add 1/2 avocado on top.
 7. Season with mustard, white vinegar, garlic powder, black pepper, iodized salt, and hot sauce or red pepper flakes if desired.
