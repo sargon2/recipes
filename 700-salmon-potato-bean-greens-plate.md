@@ -52,7 +52,7 @@ A single-serving pantry-and-staples dinner built around canned salmon, a russet 
 
 ## Notes
 
-- This is a no-cook-or-low-cook dinner if the potato is microwaved.
+- This is a no-cook-or-low-cook dinner except for microwaving the potato.
 - The Greek-yogurt topping replaces some of the beans while keeping the meal near the 700-calorie target.
 - Do not add mayo by default; the yogurt topping provides creaminess without pushing the meal above the target as quickly.
 - The potato and beans are doing most of the fiber work. The salmon, beans, and Greek yogurt are doing most of the protein work.
