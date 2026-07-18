@@ -32,6 +32,8 @@ A single-serving pantry-and-staples dinner built around canned salmon, a russet 
 - 1/2 medium avocado
 - 70 g plain 2% Greek yogurt
 - Mustard, to taste
+- Everything bagel seasoning, to taste
+- Freeze-dried chives, to taste
 - Black pepper, to taste
 - Iodized salt, to taste
 - Optional: garlic powder, to taste
@@ -43,9 +45,9 @@ A single-serving pantry-and-staples dinner built around canned salmon, a russet 
 2. Drain the canned salmon.
 3. Drain and rinse the black beans, then warm them if desired.
 4. In the serving bowl, mix the spinach, sauerkraut, mustard, black pepper, and optional garlic powder.
-5. Split the potato and season it with iodized salt and black pepper.
-6. Add the potato, salmon, black beans, and 1/2 avocado to the bowl with the spinach mixture.
-7. Spoon the Greek yogurt over the potato.
+5. Split the potato, place it on the side, and season it with iodized salt and black pepper.
+6. Add the salmon, black beans, and 1/2 avocado to the bowl with the spinach mixture.
+7. Spoon the Greek yogurt over the potato, then sprinkle it with everything bagel seasoning and freeze-dried chives.
 8. Add hot sauce or red pepper flakes as desired.
 
 ## Notes
