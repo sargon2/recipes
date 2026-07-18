@@ -20,34 +20,33 @@ tags:
 
 # 700 Calorie Salmon Potato Bean Greens Plate
 
-A single-serving pantry-and-staples dinner built around canned salmon, a russet potato with a Greek-yogurt topping, black beans, greens, and half an avocado.
+A single-serving pantry-and-staples dinner built around canned salmon, a russet potato with a Greek-yogurt topping, black beans, greens, sauerkraut, and half an avocado.
 
 ## Ingredients
 
 - 1 medium russet potato
 - 1 5 oz can salmon, drained
 - 90 g black beans, drained and rinsed
-- 100 g spinach or other dark leafy greens
+- 80 g spinach or other dark leafy greens
+- 50 g sauerkraut
 - 1/2 medium avocado
 - 70 g plain 2% Greek yogurt
 - Mustard, to taste
-- White vinegar, to taste
 - Black pepper, to taste
 - Iodized salt, to taste
-- Optional: sauerkraut on the side
+- Optional: garlic powder, to taste
 - Optional: hot sauce or red pepper flakes
 
 ## Instructions
 
 1. Microwave or bake the russet potato until tender.
 2. Drain the canned salmon.
-3. Drain and rinse the black beans.
-4. Warm the black beans and greens together, or serve the greens raw if preferred.
-5. Stir the Greek yogurt with mustard, white vinegar, black pepper, and iodized salt to make a topping.
-6. Split the potato and season it with iodized salt and black pepper.
-7. Plate the potato with the salmon, beans, greens, and 1/2 avocado, then spoon the Greek-yogurt topping over the potato.
+3. Drain and rinse the black beans, then warm them if desired.
+4. In the serving bowl, mix the spinach, sauerkraut, mustard, black pepper, and optional garlic powder.
+5. Split the potato and season it with iodized salt and black pepper.
+6. Add the potato, salmon, black beans, and 1/2 avocado to the bowl with the spinach mixture.
+7. Spoon the Greek yogurt over the potato.
 8. Add hot sauce or red pepper flakes as desired.
-9. Add sauerkraut on the side if desired.
 
 ## Notes
 
