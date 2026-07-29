@@ -17,7 +17,7 @@ tags:
 
 # 800 Calorie Avocado Toast with Cottage Cheese
 
-A high-protein brunch built around avocado egg toast, a cottage cheese and berry bowl, and a measured portion of almonds.
+A high-protein brunch built around avocado egg toast and a cottage cheese, berry, and almond side bowl.
 
 ## Ingredients
 
@@ -32,9 +32,6 @@ A high-protein brunch built around avocado egg toast, a cottage cheese and berry
 
 - 250 g 2% or 205 g whole cottage cheese
 - 150 g frozen berries
-
-### Almonds
-
 - 12 g almonds, weighed before serving
 
 ## Instructions
@@ -43,8 +40,7 @@ A high-protein brunch built around avocado egg toast, a cottage cheese and berry
 2. Mash the avocado across both slices of toast.
 3. Slice the boiled eggs and place them on the avocado toast, or eat them on the side.
 4. Top the toast with everything bagel seasoning.
-5. Serve with a bowl of cottage cheese and frozen berries.
-6. Eat the measured almonds alongside the meal, or chop them and add them to the cottage cheese bowl.
+5. Add the cottage cheese and frozen berries to a bowl, then top with the measured almonds, whole or chopped.
 
 ## Notes
 
