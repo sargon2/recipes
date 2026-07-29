@@ -5,7 +5,7 @@ servings: 1
 calories: 800
 protein_g: 52
 fiber_g: 16
-calorie_note: Approximate; varies mostly by avocado size, Greek yogurt brand, egg size, berry mix, and bread.
+calorie_note: Approximate; varies mostly by avocado size, Greek yogurt brand, egg size, berry mix, almonds, and bread.
 tags:
   - high-protein
   - high-fiber
@@ -17,7 +17,7 @@ tags:
 
 # 800 Calorie Avocado Toast with Greek Yogurt
 
-A high-protein brunch built around avocado egg toast, a Greek yogurt and berry bowl, and a measured portion of almonds.
+A high-protein brunch built around avocado egg toast and a Greek yogurt, berry, and almond side bowl.
 
 ## Ingredients
 
@@ -32,9 +32,6 @@ A high-protein brunch built around avocado egg toast, a Greek yogurt and berry b
 
 - 250 g plain 2% Greek yogurt
 - 200 g frozen berries
-
-### Almonds
-
 - 12 g almonds, weighed before serving
 
 ## Instructions
@@ -43,8 +40,7 @@ A high-protein brunch built around avocado egg toast, a Greek yogurt and berry b
 2. Mash the avocado across both slices of toast.
 3. Slice the boiled eggs and place them on the avocado toast, or eat them on the side.
 4. Top the toast with everything bagel seasoning.
-5. Serve with a bowl of Greek yogurt and frozen berries.
-6. Eat the measured almonds alongside the meal, or chop them and add them to the yogurt bowl.
+5. Add the Greek yogurt and frozen berries to a bowl, then top with the measured almonds, whole or chopped.
 
 ## Notes
 
