@@ -32,13 +32,10 @@ A single-serving pantry dinner built around whole wheat pasta, canned chicken, R
 
 ## Instructions
 
-1. Cook the pasta until tender.
-2. While the pasta cooks, warm the Rao's pasta sauce in a pan or microwave-safe bowl.
-3. If using frozen broccoli, microwave 100 g from frozen for 3 minutes. No water or stirring is needed.
-4. Stir the drained chicken and black beans into the sauce. Add the spinach or other leafy greens now, or stir in the cooked broccoli.
-5. Heat until the leafy greens are wilted, if using, and everything is hot.
-6. Drain the pasta and combine with the sauce mixture.
-7. Taste and adjust with iodized salt.
+1. Boil water. Add salt. Add pasta and cook until al dente, about 6 mins.
+2. If using frozen broccoli, microwave 100 g from frozen for 3 minutes.
+3. Stir the drained pasta, drained chicken and black beans into the sauce. Add the spinach, other leafy greens, or cooked broccoli.
+5. (Optional) Microwave the entire bowl until the leafy greens are wilted, if using, and everything is hot.
 
 ## Notes
 
@@ -46,4 +43,3 @@ A single-serving pantry dinner built around whole wheat pasta, canned chicken, R
 - Rao's pasta sauce is more calorie-dense than plain crushed tomatoes, so the pasta is reduced from 100 g to 85 g dry to keep the meal near the 700-calorie target.
 - Frozen broccoli is a direct alternative to the spinach. Microwave it separately before adding it to the sauce.
 - Do not add oil by default; the pasta, beans, chicken, and sauce already bring this close to the 700-calorie target.
-- If the meal comes out short because the canned chicken drained weight is low, add a piece of fresh fruit.
