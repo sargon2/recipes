@@ -22,8 +22,8 @@ A high-protein, high-fiber brunch built around overnight oats, Greek yogurt, ber
 
 ### Overnight oats
 
-- 60 g rolled oats
-- 18 g chia seeds
+- 64 g rolled oats
+- 15 g chia seeds
 - 210 g water
 - Pinch of iodized salt
 
