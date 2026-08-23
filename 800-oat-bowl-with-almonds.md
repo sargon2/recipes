@@ -40,9 +40,9 @@ A high-protein, high-fiber brunch built around overnight oats, Greek yogurt, ber
 
 1. The night before, combine the rolled oats, chia seeds and wate in a 16oz mason jar.
 2. Refrigerate overnight.
-3. In the morning, microwave the berries on defrost for 4 minutes in a large bowl. Add the oats and Greek yogurt.
-4. Top with the almonds & eggs.
+3. In the morning, microwave the berries on defrost for 4 minutes in a large bowl.
+4. Add the oats, Greek yogurt, almonds, & eggs.
 
 ## Notes
 
-- If you forget to make the oats the night before, make the jar in the morning and let it sit on the counter for 20 minutes instead.
+- If you forget to make the oats the night before, it's fine to make it in the morning. 20 minutes is enough time for it to soak; less might be okay too.
