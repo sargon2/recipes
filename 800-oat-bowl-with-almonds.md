@@ -5,7 +5,7 @@ servings: 1
 calories: 800
 protein_g: 47
 fiber_g: 20
-calorie_note: Approximate; uses less almonds and chia, with additional oats to keep the bowl near 800 calories.
+calorie_note: Approximate; uses less almonds and chia, with oats adjusted to keep the bowl near 800 calories.
 tags:
   - high-protein
   - high-fiber
@@ -22,14 +22,14 @@ A high-protein, high-fiber brunch built around overnight oats, Greek yogurt, ber
 
 ### Overnight oats
 
-- 80 g rolled oats
+- 75 g rolled oats
 - 12 g chia seeds
 - 210 g water
 - Pinch of iodized salt
 
 ### Morning additions
 
-- 175 g plain 2% Greek yogurt
+- 200 g plain 2% Greek yogurt
 - 150 g frozen berries
 - 12 g almonds
 
@@ -47,7 +47,8 @@ A high-protein, high-fiber brunch built around overnight oats, Greek yogurt, ber
 
 ## Notes
 
-- Reducing almonds from 20 g to 12 g and chia seeds from 15 g to 12 g removes about 60 calories; increasing rolled oats from 64 g to 80 g adds approximately the same amount back.
+- This version uses 12 g almonds, 12 g chia seeds, 200 g Greek yogurt, and 75 g rolled oats to keep the bowl near 800 calories.
+- Increasing Greek yogurt from 175 g to 200 g adds roughly 18-20 calories; reducing rolled oats from 80 g to 75 g offsets approximately the same amount.
 - If you forget to make the oats the night before, make the jar in the morning and let it sit on the counter for 20 minutes instead.
 - Use 200 g water for a denser, spoonable texture.
 - Use 220 g water for a looser texture closer to a softer overnight-oats bowl.
