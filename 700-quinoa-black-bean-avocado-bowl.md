@@ -22,7 +22,8 @@ A high-fiber single-serving dinner built around quinoa, black beans, greens, yog
 
 ## Ingredients
 
-- 70 g dry quinoa, cooked
+- 70 g dry quinoa
+- 190 g water
 - 130 g black beans, drained and rinsed
 - 1/2 medium avocado
 - 150 g plain 2% Greek yogurt
@@ -37,7 +38,7 @@ A high-fiber single-serving dinner built around quinoa, black beans, greens, yog
 
 ## Instructions
 
-1. Cook the quinoa.
+1. Put the quinoa and 190 g water in a large microwave-safe bowl. Cover loosely and microwave in a 1000 W microwave for 4 minutes at full power, then 9 minutes at 50% power. Leave covered for 5 minutes, then fluff with a fork.
 2. Warm the black beans, tomatoes, onion if using, and greens until hot and the greens are wilted.
 3. Stir the Greek yogurt with garlic powder, black pepper, iodized salt, and a splash of white vinegar to make a quick sauce.
 4. Add the cooked quinoa to a bowl.
