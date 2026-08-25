@@ -30,9 +30,9 @@ A high-protein brunch built around avocado egg toast and a cottage cheese, berry
 
 ### Side bowl
 
-- 250 g 2% or 205 g whole cottage cheese
+- 200 g 2% cottage cheese
 - 150 g frozen berries
-- 12 g almonds, weighed before serving
+- 19 g almonds, weighed before serving
 
 ## Instructions
 
