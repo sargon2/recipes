@@ -30,9 +30,9 @@ A high-protein brunch built around avocado egg toast and a Greek yogurt, berry, 
 
 ### Side bowl
 
-- 250 g plain 2% Greek yogurt
-- 200 g frozen berries
-- 12 g almonds, weighed before serving
+- 200 g plain 2% Greek yogurt
+- 150 g frozen berries
+- 22 g almonds, weighed before serving
 
 ## Instructions
 
