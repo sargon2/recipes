@@ -1,50 +1,64 @@
 ---
-title: 600 Calorie Tuna Toast and Apple
+title: 600 Calorie Canned Protein Toast and Apple
 intended_meal: single daily snack
 servings: 1
 calories: 600
-protein_g: 42
+protein_g: 40
 fiber_g: 15
-calorie_note: Approximate (~590 calories with the estimates below); varies by bread brand, tuna brand and drained yield, avocado size, and apple size.
+calorie_note: Approximate; the tuna version is ~588 calories, while salmon and chicken versions vary with the drained-can nutrition label and portion size.
 tags:
   - high-protein
   - high-fiber
   - snack
   - savory
   - tuna
+  - salmon
+  - chicken
   - toast
   - weight-loss
 ---
 
-# 600 Calorie Tuna Toast and Apple
+# 600 Calorie Canned Protein Toast and Apple
 
-A larger version of the 300-calorie tuna toast and apple, with avocado, an egg, and a second slice of toast for a more substantial single daily snack.
+A substantial, savory toast-and-fruit snack. Rotate among canned light tuna, canned salmon, and canned chicken for variety.
 
 ## Ingredients
 
 - 2 slices whole wheat bread, about 34 g and 90 calories each (180 calories)
-- 1 5 oz can light tuna in water, drained (about 115 calories)
+- **Choose one protein** (one 5 oz can, drained):
+  - Canned light tuna in water (about 115 calories; original version)
+  - Canned salmon (use the calories on your can's label)
+  - Canned chicken (use the calories on your can's label)
 - Mustard, to taste (negligible calories)
 - 1/2 medium avocado, about 75 g edible portion (about 120 calories)
 - 1 boiled egg (about 78 calories)
 - 1 medium apple, about 180 g edible portion (about 95 calories)
 - Optional: black pepper or everything bagel seasoning
 
-**Estimated total: 588 calories (~600 calories)**
+**Calorie calculation:** Approximately **473 calories plus the calories in your drained can of protein**. For example:
+
+| Protein (one drained 5 oz can) | Example can calories | Total snack calories |
+| --- | ---: | ---: |
+| Light tuna | 115 | 588 |
+| Salmon | 140 | 613 |
+| Chicken | 120 | 593 |
+
+*Salmon and chicken examples are illustrative, not fixed values; brands, packing liquid, and drained weights vary. Check the can's nutrition label, including servings per container. If a can is substantially higher or lower in calories, adjust the avocado portion: each 10 g of avocado adds roughly 16 calories.*
 
 ## Instructions
 
 1. Toast both slices of bread.
-2. Drain the tuna well, then mix with mustard and black pepper if desired.
-3. Mash the half avocado onto the toast.
-4. Divide the tuna between the two slices.
-5. Slice the boiled egg and add it on top of the toast, or eat it on the side.
-6. Serve with the apple.
+2. Drain the chosen canned protein well. If using salmon, break it into flakes; if using chicken, shred it with a fork.
+3. Mix the protein with mustard and black pepper, if desired.
+4. Mash the half avocado onto the toast.
+5. Divide the protein between the two slices.
+6. Slice the boiled egg and add it on top, or eat it on the side.
+7. Serve with the apple.
 
 ## Notes
 
-- The calorie estimate is rounded to the nearest 100-calorie recipe category. Check your bread and tuna labels and the avocado size if you need a more exact total.
-- Compared with the 300-calorie version, this adds one slice of bread, half an avocado, and one boiled egg. It keeps the tuna at one can rather than doubling it.
-- This version uses only items from the staple foods list.
-- For mercury exposure, prefer canned light tuna (often skipjack) over albacore/white tuna. Even canned light tuna is better rotated with other proteins rather than eaten every day; canned salmon or chicken are staples that can replace it, with calories adjusted to the label.
-- No mayo is needed: the avocado adds creaminess.
+- All three canned proteins are on the staple foods list, so no additional staple is needed.
+- The egg, avocado, toast, and apple stay the same when swapping proteins.
+- Nutritional estimates are approximate: the protein content varies by the chosen can, and fiber is mostly from the bread, avocado, and apple.
+- For more frequent use, rotate among the three proteins instead of eating tuna every day. Choose canned light tuna rather than albacore/white tuna when choosing tuna to reduce mercury exposure.
+- No mayo is needed: avocado adds creaminess.
