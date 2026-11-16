@@ -1,0 +1,86 @@
+---
+title: 800 Calorie Turkey Lentil Tomato Soup Dinner
+intended_meal: dinner
+servings: 4
+calories: 800
+soup_calories_per_serving: 500
+protein_g: 45
+fiber_g: 22
+prep_time_minutes: 90
+calorie_note: Approximate; varies by turkey, bread, fruit size, and final soup yield.
+equipment:
+  - 8 qt stock pot
+  - 3.2-cup borosilicate glass storage containers
+tags:
+  - high-protein
+  - high-fiber
+  - dinner
+  - soup
+  - turkey
+  - lentils
+  - weight-loss
+---
+
+# 800 Calorie Turkey Lentil Tomato Soup Dinner
+
+A high-protein, high-fiber dinner built around a thick turkey lentil tomato soup, with simple sides to bring the full meal close to 700 calories.
+
+## Dinner serving
+
+Each dinner is:
+
+- 1/4 of the soup
+- 2 slices whole wheat bread, about 34 g and 90 calories
+- 150 g baby carrots
+- 1 medium orange or similar fresh fruit
+
+Approximate dinner total: 770-820 calories.
+
+## Soup ingredients
+
+Makes 4 large soup servings.
+
+- 1 tsp olive oil
+- 1 lb 93% lean ground turkey
+- 250 g dry lentils, rinsed and picked over
+- 1 large yellow onion, diced
+- 4 cloves garlic, minced
+- 1 794 g can crushed tomatoes
+- 1 14.5 oz can diced tomatoes
+- 750 g water, plus more if needed
+- 225 g spinach or other dark leafy greens
+- 2 tsp Italian seasoning
+- 1 tsp smoked paprika
+- 1/2 tsp black pepper
+- Iodized salt, to taste
+- Optional: red pepper flakes, to taste
+- Optional: white vinegar, to finish
+
+## Instructions
+
+1. Heat the 8 qt stock pot over medium heat.
+2. Add the olive oil.
+3. Add the diced onion and cook until translucent.
+4. Add the ground turkey and cook, breaking it up, until no pink remains.
+5. Add the garlic and cook for about 30 seconds.
+6. Add the lentils, crushed tomatoes, diced tomatoes, water, Italian seasoning, smoked paprika, black pepper, and red pepper flakes if using.
+7. Bring to a boil, then reduce to a simmer.
+8. Simmer uncovered or partially covered for about 30-40 minutes, until the lentils are tender. Stir occasionally so the lentils do not stick to the bottom.
+9. Add more water if the soup gets thicker than desired.
+10. Stir in the spinach and cook until wilted.
+11. Taste and adjust with iodized salt. Add a splash of white vinegar if the soup tastes flat.
+12. Divide into 4 large servings.
+
+## Storage
+
+- Store in 3.2-cup borosilicate glass containers.
+- The portions may be large, so do not overfill the containers. Use an extra overflow container if needed.
+- Refrigerate portions planned within 4 days.
+- Freeze later portions if needed.
+- Reheat in the microwave, stirring partway through.
+
+## Notes
+
+- The soup itself is intentionally around 500 calories per serving. The toast, carrots, and fruit make it a complete dinner.
+- Use 250 g dry lentils for the standard version. More lentils would make the containers very full and push the soup toward a stew.
+- If using an apple instead of an orange, the full dinner may be a little higher in calories.
